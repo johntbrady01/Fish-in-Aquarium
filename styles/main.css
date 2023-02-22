@@ -1,0 +1,78 @@
+.background {
+    background-color: lightblue ;
+
+}
+
+.header {
+    display:flex;
+    justify-content:center;
+    font-size: 3em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;;
+
+}
+
+.headerBox{
+    padding:20px;
+    background-color: white;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+
+}
+
+.margin{
+    margin: 0;
+    padding: 0;
+}
+
+.sections {
+    display: flex;
+    justify-content: space-between;
+    padding-left:.5% ;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+
+
+}
+
+.names {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+}
+
+.descriptions {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+}
+
+.fishPhotos {
+      height: 200px;
+      width: 200px;
+
+
+}
+.twoSides {
+    display: flex;
+    justify-content: space-between;
+    padding-left:2%;
+    padding-right:10%
+
+}
+
+.sidebar{
+    padding-left:30px ;
+    padding-right: 30px;
+
+}
+
+.sidebarProp {
+     background-color: lightcoral;
+     padding-top: 10px ;
+     border-width: 2px;
+     border-style: solid;
+     border-color: black;
+ 
+}
